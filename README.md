@@ -1,1 +1,1 @@
-# ML-Test-a-Perceptual-Phenomenon
+# Project 2 under the machine learning foundation course of Udacity
