@@ -1,1 +1,1 @@
-# Project 2 under the machine learning foundation course of Udacity
+# Project 2 under the machine learning foundation nanodegree of Udacity
